@@ -1,0 +1,2 @@
+# Kaze-Studio
+Visual novels
